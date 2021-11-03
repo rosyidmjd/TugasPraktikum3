@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tugas3</string>
+    <string-array name="kelas">
+
+        <item>--Pilih--</item>
+        <item>Mobile 1</item>
+        <item>Mobile 2</item>
+        <item>Mobile 3</item>
+        <item>Mobile 4</item>
+    </string-array>
+</resources>
